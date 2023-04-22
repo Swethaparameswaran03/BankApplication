@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Apr 18 18:25:32 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0187-946f-40ff-000001bad940 
+on database directory memory:C:\Users\Lenovo\Downloads\bank-app-rest-api-264a8e2f88e78920b6533c7fd99d0431e808627a\bank-app-rest-api-264a8e2f88e78920b6533c7fd99d0431e808627a\BankApp\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3cd1a2f1 
+Loaded from file:/C:/Users/Lenovo/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=C:\Users\Lenovo\Downloads\bank-app-rest-api-264a8e2f88e78920b6533c7fd99d0431e808627a\bank-app-rest-api-264a8e2f88e78920b6533c7fd99d0431e808627a\BankApp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
